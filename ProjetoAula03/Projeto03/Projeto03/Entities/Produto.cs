@@ -7,7 +7,7 @@
         public String Nome { get; set; }
         public decimal Preco { get; set; }
         public int Quantidade { get; set; }
-        public DateTime DataCadastri { get; set; }
+        public DateTime DataCadastro { get; set; }
 
         #endregion
 
